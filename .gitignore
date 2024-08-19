@@ -1,0 +1,5 @@
+.vs/
+scp plugin/obj/
+scp plugin/bin/
+packages/
+dlls/
