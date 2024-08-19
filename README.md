@@ -16,3 +16,7 @@ from EXILED mod:
 
 from SCP:SL:
 - UnityEngine.CoreModule.dll
+
+## Building
+
+CTRL + SHIFT + B and the dll will be in the `bin` folder
