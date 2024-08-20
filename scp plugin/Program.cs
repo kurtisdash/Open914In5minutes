@@ -29,8 +29,6 @@ namespace Open914After5Minutes
         /// <inheritdoc/>
         public override void OnDisabled()
         {
-
-            Log.Warn("ron is a fatass");
             UnregisterEvents();
 
             base.OnDisabled();
